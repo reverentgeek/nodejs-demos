@@ -1,31 +1,15 @@
 {
-  "name": "nodejs-demos",
-  "version": "0.0.1",
-  "description": "Intro to Node.js for .NET Devs",
-  "main": "./express-demo/express-demo/app.js",
-  "directories": {
-    "test": "tests"
+  "name": "express_demo",
+  "version": "0.0.0",
+  "description": "express-demo",
+  "main": "app.js",
+  "author": {
+    "name": "david",
+    "email": ""
   },
-  "scripts": {
-    "start": "node ./express-demo/express-demo/app.js",
-    "test": "mocha"
-  },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/reverentgeek/nodejs-demos.git"
-  },
-  "author": "David Neal",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/reverentgeek/nodejs-demos/issues"
-  },
-  "homepage": "https://github.com/reverentgeek/nodejs-demos",
   "dependencies": {
-    "edge": "^0.9.3",
-    "lodash": "^2.4.1"
-  },
-  "devDependencies": {
-    "mocha": "^1.21.4",
-    "should": "^4.0.4"
+    "express": "3.4.4",
+    "jade": "*",
+    "stylus": "*"
   }
 }
