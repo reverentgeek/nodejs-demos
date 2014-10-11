@@ -1,0 +1,26 @@
+{
+  "name": "nodejs-demos",
+  "version": "0.0.1",
+  "description": "Intro to Node.js for .NET Devs",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/reverentgeek/nodejs-demos.git"
+  },
+  "author": "David Neal",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/reverentgeek/nodejs-demos/issues"
+  },
+  "homepage": "https://github.com/reverentgeek/nodejs-demos",
+  "devDependencies": {
+    "mocha": "^1.21.4",
+    "should": "^4.0.4"
+  }
+}
