@@ -2,11 +2,12 @@
   "name": "nodejs-demos",
   "version": "0.0.1",
   "description": "Intro to Node.js for .NET Devs",
-  "main": "index.js",
+  "main": "./express-demo/express-demo/app.js",
   "directories": {
     "test": "tests"
   },
   "scripts": {
+    "start": "node ./express-demo/express-demo/app.js",
     "test": "mocha"
   },
   "repository": {
@@ -19,6 +20,10 @@
     "url": "https://github.com/reverentgeek/nodejs-demos/issues"
   },
   "homepage": "https://github.com/reverentgeek/nodejs-demos",
+  "dependencies": {
+    "edge": "^0.9.3",
+    "lodash": "^2.4.1"
+  },
   "devDependencies": {
     "mocha": "^1.21.4",
     "should": "^4.0.4"
