@@ -9,8 +9,8 @@ hello.getHello( "Code PaLOUsa", function( err, response ) {
 	console.log( response );
 } );
 
-hello.getHello( null, function( err, response ) {
-	if ( err )
-		throw err;
-	console.log( response );
-} );
+// hello.getHello( null, function( err, response ) {
+// 	if ( err )
+// 		throw err;
+// 	console.log( response );
+// } );
