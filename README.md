@@ -2,14 +2,23 @@
 
 Demos for ReverentGeek's "Intro to Nodejs for .NET Developers" presentation.
 
-## Tools
+Download and install [Node.js](http://nodejs.org)
 
-* [Node.js](http://nodejs.org)
+## Editors
+
+* [Atom](https://atom.io/) (free cross-platform editor from GitHub)
+* [Visual Studio Code](https://code.visualstudio.com/) (free cross-platform editor for Windows, Mac OS X, and Linux)
+* [Visual Studio Community 2013](https://www.visualstudio.com/en-us/products/visual-studio-community-vs.aspx) (free Visual Studio IDE for Windows)
+
+## Tools available for Visual Studio 2012, 2013
+
 * [Node.js Tools for Visual Studio](https://nodejstools.codeplex.com/)
 * [Node.js Tools for Visual Studio (GitHub)](https://github.com/Microsoft/nodejstools)
 * [Package Intellisense](http://visualstudiogallery.msdn.microsoft.com/65748cdb-4087-497e-a394-2e3449c8e61e)
 * [Task Runner Explorer](http://visualstudiogallery.msdn.microsoft.com/8e1b4368-4afb-467a-bc13-9650572db708)
 * [Grunt Launcher](http://visualstudiogallery.msdn.microsoft.com/dcbc5325-79ef-4b72-960e-0a51ee33a0ff)
+
+
 
 ## Articles
 
