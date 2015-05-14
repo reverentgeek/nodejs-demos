@@ -6,9 +6,9 @@ Download and install [Node.js](http://nodejs.org)
 
 ## Editors
 
-* [Atom](https://atom.io/) (free cross-platform editor from GitHub)
 * [Visual Studio Code](https://code.visualstudio.com/) (free cross-platform editor for Windows, Mac OS X, and Linux)
 * [Visual Studio Community 2013](https://www.visualstudio.com/en-us/products/visual-studio-community-vs.aspx) (free Visual Studio IDE for Windows)
+* [Atom](https://atom.io/) (free cross-platform editor from GitHub)
 
 ## Tools available for Visual Studio 2012, 2013
 
