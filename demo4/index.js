@@ -2,7 +2,7 @@ var Hello = require( "./hello" );
 
 // console.log( "Hello module:", Hello );
 
-var hello1 = Hello( "Code PaLOUsa 2015" );
+var hello1 = Hello( "Microsoft MVP V-Conf 2015" );
 
 // console.log( "hello1 instance:", hello1 );
 
