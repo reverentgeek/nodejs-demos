@@ -1,6 +1,6 @@
-# Intro to Node.js for .NET Developers Demos
+# Node.js for .NET Developers Demos
 
-Demos for ReverentGeek's "Intro to Nodejs for .NET Developers" presentation.
+Demos for [ReverentGeek](http://reverentgeek.com)'s "Nodejs for .NET Developers" presentation. Twitter: [@reverentgeek](https://twitter.com/reverentgeek).
 
 Download and install [Node.js](http://nodejs.org)
 
@@ -18,8 +18,6 @@ Download and install [Node.js](http://nodejs.org)
 * [Task Runner Explorer](http://visualstudiogallery.msdn.microsoft.com/8e1b4368-4afb-467a-bc13-9650572db708)
 * [Grunt Launcher](http://visualstudiogallery.msdn.microsoft.com/dcbc5325-79ef-4b72-960e-0a51ee33a0ff)
 
-
-
 ## Articles
 
 * [Why Node.js is Becoming the Go-To Technology in the Enterprise](http://www.nearform.com/nodecrunch/node-js-becoming-go-technology-enterprise/) by Cian O'Maidin
@@ -28,6 +26,11 @@ Download and install [Node.js](http://nodejs.org)
 * [Introducing Gulp, Grunt, Bower, and npm support for Visual Studio](http://www.hanselman.com/blog/IntroducingGulpGruntBowerAndNpmSupportForVisualStudio.aspx) by Scott Hanselman
 * [How to leverage SQL Server with Node.js using Edge.js](http://tech.pro/tutorial/1852/how-to-leverage-sql-server-with-nodejs-using-edgejs) by David Neal
 * [UPDATED for 2015: How to install the nodejs Ghost blog software on Azure Web Apps (and the Deploy to Azure Button)](http://www.hanselman.com/blog/UPDATEDFor2015HowToInstallTheNodejsGhostBlogSoftwareOnAzureWebAppsAndTheDeployToAzureButton.aspx) by Scott Hanselman
+
+## Edge.js
+
+* [Edge.js GitHub project](https://github.com/tjanczuk/edge)
+* [Edge.js overview](http://tjanczuk.github.io/edge/)
 
 ## Even MOAR Resources
 
