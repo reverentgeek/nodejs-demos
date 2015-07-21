@@ -1,6 +1,6 @@
 # Node.js for .NET Developers Demos
 
-Demos for [ReverentGeek](http://reverentgeek.com)'s "Nodejs for .NET Developers" presentation. Contact me on Twitter at [@reverentgeek](https://twitter.com/reverentgeek).
+Demos for [ReverentGeek](http://reverentgeek.com)'s "[Nodejs for .NET Developers](http://www.slideshare.net/reverentgeek/intro-to-nodejs-for-net-developers)" presentation. Contact me on Twitter at [@reverentgeek](https://twitter.com/reverentgeek).
 
 ## Download Node.js
 
@@ -39,6 +39,7 @@ Download and install [Node.js](http://nodejs.org)
 
 ## Even MOAR Resources
 
+* [Awesome Node.js](https://github.com/sindresorhus/awesome-nodejs/) - Curated list of Node.js packages and resources
 * [Node.js for Beginners](https://github.com/rockbot/node-for-beginners) - Huge list of resources for Node.js newbies
 * [NPM Library](https://www.npmjs.org/)
 * WatchMeCode [Intro to NodeJS](https://sub.watchmecode.net/downloads/intro-to-nodejs/) training videos
