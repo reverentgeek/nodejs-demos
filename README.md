@@ -1,6 +1,6 @@
 # Node.js for .NET Developers Demos
 
-Demos for [ReverentGeek](http://reverentgeek.com)'s "[Nodejs for .NET Developers](http://www.slideshare.net/reverentgeek/intro-to-nodejs-for-net-developers)" presentation. Contact me on Twitter at [@reverentgeek](https://twitter.com/reverentgeek).
+Demos for [ReverentGeek](http://reverentgeek.com)'s "[Node.js Crash Course](http://www.slideshare.net/reverentgeek/nodejs-crash-course)" presentation. Contact me on Twitter at [@reverentgeek](https://twitter.com/reverentgeek).
 
 ## Download Node.js
 
@@ -34,7 +34,7 @@ Download and install [Node.js](http://nodejs.org)
 * [What is Node.js used for: The 2015 Node.js Overview Report](http://blog.risingstack.com/what-is-nodejs-used-for-the-2015-nodejs-overview-report/) by Gabor Nagy
 * [Hosting Node.js on Microsoft Azure](http://reverentgeek.com/hosting-node-js-on-microsoft-azure/) by David Neal
 * [Introducing Gulp, Grunt, Bower, and npm support for Visual Studio](http://www.hanselman.com/blog/IntroducingGulpGruntBowerAndNpmSupportForVisualStudio.aspx) by Scott Hanselman
-* [How to leverage SQL Server with Node.js using Edge.js](http://tech.pro/tutorial/1852/how-to-leverage-sql-server-with-nodejs-using-edgejs) by David Neal
+* [Painless SQL Server with Node.js and Seriate](http://developer.leankit.com/painless-sql-server-with-nodejs-and-seriate/) by David Neal
 * [UPDATED for 2015: How to install the nodejs Ghost blog software on Azure Web Apps (and the Deploy to Azure Button)](http://www.hanselman.com/blog/UPDATEDFor2015HowToInstallTheNodejsGhostBlogSoftwareOnAzureWebAppsAndTheDeployToAzureButton.aspx) by Scott Hanselman
 
 ## Even MOAR Resources
