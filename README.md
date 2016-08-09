@@ -1,7 +1,7 @@
 # Node.js for .NET Developers Demos
 
-* Get the latest slides at [https://slidr.io/reverentgeek](https://slidr.io/reverentgeek)
-* [ReverentGeek.com](http://reverentgeek.com) | [Twitter](https://twitter.com/reverentgeek)
+* Get the latest slides at [SpeakerDeck](https://speakerdeck.com/reverentgeek)
+* [About me](https://about.me/reverentgeek) | [reverentgeek.com](http://reverentgeek.com) | [@reverentgeek](https://twitter.com/reverentgeek)
 
 ## Download Node.js
 
