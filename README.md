@@ -1,4 +1,5 @@
-# Node.js for .NET Developers Demos
+# Node.js Crash Course
+aka Node.js Crash Course for .NET Developers
 
 * Get the latest slides at [SpeakerDeck](https://speakerdeck.com/reverentgeek)
 * [About me](https://about.me/reverentgeek) | [reverentgeek.com](http://reverentgeek.com) | [@reverentgeek](https://twitter.com/reverentgeek)
